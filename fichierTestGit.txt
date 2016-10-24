@@ -2,3 +2,4 @@ fichier test Git
 ok
 ok
 modif depuis le PC
+modifier depuis le PC dans la branche mabranche1
